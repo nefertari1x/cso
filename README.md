@@ -21,8 +21,8 @@ This repository contains an implementation of the Competitive Swarm Optimizer (C
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/nefertari1x/cso.git
+cd cso
 ```
 
 2. Install required packages:
@@ -116,13 +116,9 @@ The algorithm will output:
 - Standard deviation
 - Convergence curve plot
 
-## License
-
-[Your chosen license]
-
 ## Citation
 
 If you use this implementation in your research, please cite the original paper:
 ```
-[Paper citation]
+Cheng, Ran, and Yaochu Jin. "A competitive swarm optimizer for large scale optimization." IEEE transactions on cybernetics 45.2 (2014): 191-204.
 ``` 

@@ -116,13 +116,9 @@ The algorithm will output:
 - Standard deviation
 - Convergence curve plot
 
-## License
-
-[Your chosen license]
-
 ## Citation
 
 If you use this implementation in your research, please cite the original paper:
 ```
-[Paper citation]
+Cheng, Ran, and Yaochu Jin. "A competitive swarm optimizer for large scale optimization." IEEE transactions on cybernetics 45.2 (2014): 191-204.
 ``` 

@@ -21,8 +21,8 @@ This repository contains an implementation of the Competitive Swarm Optimizer (C
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/nefertari1x/cso.git
+cd cso
 ```
 
 2. Install required packages:
